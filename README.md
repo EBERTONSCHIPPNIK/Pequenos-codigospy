@@ -1,2 +1,2 @@
-# Pequenos-codigospy
- Pequenos codigos em Python
+# Pequenos-codigos
+ Pequenos codigos
